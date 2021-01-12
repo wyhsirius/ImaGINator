@@ -29,6 +29,9 @@ python demo.py --dataset mug --model_path ./pretrained/mug.pth
 python train.py --data_path $DATA_PATH
 ```
 
+## Evaluation
+To compute FID, please ref to [G3AN](https://github.com/wyhsirius/g3an-project).
+
 ## Citation
 If you find this code useful for your research, please consider citing our paper:
 ```bibtex
