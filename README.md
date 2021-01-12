@@ -36,11 +36,11 @@ To compute FID, please ref to [G3AN](https://github.com/wyhsirius/g3an-project).
 If you find this code useful for your research, please consider citing our paper:
 ```bibtex
 @InProceedings{WANG_2020_WACV,
-author = {WANG, Yaohui and Bilinski, Piotr and Bremond, Francois and Dantcheva, Antitza},
-title = {ImaGINator: Conditional Spatio-Temporal GAN for Video Generation},
-booktitle = {The IEEE Winter Conference on Applications of Computer Vision (WACV)},
-month = {March},
-year = {2020}
+  author = {WANG, Yaohui and Bilinski, Piotr and Bremond, Francois and Dantcheva, Antitza},
+  title = {ImaGINator: Conditional Spatio-Temporal GAN for Video Generation},
+  booktitle = {The IEEE Winter Conference on Applications of Computer Vision (WACV)},
+  month = {March},
+  year = {2020}
 }
 ```
 
